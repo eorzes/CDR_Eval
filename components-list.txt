@@ -1,0 +1,65 @@
+PCB-CDR Components
+
+_______________________________
+To Buy Now:
+
+CDR:
+ADN2817ACPZ-RL7 * 4
+
+SMA:
+SAMTEC_SMA-J-P-H-ST-MT1 * 6
+
+Block Type EMIFIL (LC Combined):
+FIL_MURATA_BNX022-01L
+
+20V, 500mA, Ultralow Noise, Ultrahigh PSRR Linear Regulator:
+LT3045EDD#PBF
+
+3 Mini Wire-Wrap Contact Strip Header:
+SAMTEC_HTSW-103-23-L-S * 3
+
+BNC Connector:
+AMPHENOL_B6252H7-NPP3G-50
+
+Headers:
+612-HTSW-103-23-L-S-ND
+_______________________________
+LED:
+
+Cyan
+APT1608VRCXF/A-5MAV 
+Red
+APTD1608LSURCK
+
+_______________________________
+Capacitors:
+
+Using MuRata Multilayer Ceramic Capacitors viewing tool
+https://ds.murata.co.jp/simsurfing/mlcc.html?lcid=en-us&jis=false&md5=e717cd7bfbb8debb81bc21d5ac92705b
+
+-AC Coupling:
+CC0201_100NF_6.3V_10%_X7R
+GRM033Z71A104KE14
+
+-Power Bypass
+0102 33nF 25V-150%derating 10% X5R (Reversed)
+LLL03TR61E333KE01
+
+0204 470nF 4V 20% X7S (Reversed)
+LLL153C70G474ME17
+
+0603 10uF 10V 10% X7T
+GRM188D71A106KA73
+
+1210 100uF 6.3V 20% X7S
+GRM32EC70J107ME15
+
+-CDR Filter:
+0805 470uF 25V 10% X8L (>300MΩ Insulation Resistance)
+GCJ21BL81E474KA01
+_______________________________
+Resistors:
+
+Part Number	Library Ref	Footprint
+R0603_33K_1%_0.1W_100PPM	Resistor - 1%	RESC1608X55N
+
